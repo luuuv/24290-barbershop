@@ -120,6 +120,21 @@ htnml, body {
 	outline: 1px solid red;
 }
 
+.product-list {
+	
+	/* только для создания сетки */
+	min-height: 594px;
+	outline: 1px solid blue;
+}
+
+.pagination {
+	
+	
+	/* только для создания сетки */
+	min-height: 45px;
+	outline: 1px solid blue;
+}
+
 .main-footer {
 	margin-top: 49px;
 	padding-top: 62px;
